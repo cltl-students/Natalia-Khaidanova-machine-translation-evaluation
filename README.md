@@ -90,7 +90,7 @@ The [requirements.txt](https://github.com/cltl-students/Natalia-Khaidanova-machi
 
 <h2>Natalia_Khaidanova_Thesis.pdf</h2>
 
-The [Natalia_Khaidanova_Thesis.pdf](https://github.com/cltl-students/Natalia-Khaidanova-machine-translation-evaluation/blob/main/Natalia_Khaidanova_2778662_Thesis.pdf) file contains the thesis report outlining the results of the research. 
+The [Natalia_Khaidanova_Thesis.pdf](https://github.com/cltl-students/Natalia-Khaidanova-machine-translation-evaluation/blob/main/Natalia_Khaidanova_Thesis.pdf) file contains the thesis report outlining the results of the research. 
 
 <h2>References</h2>
 
