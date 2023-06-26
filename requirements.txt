@@ -1,0 +1,24 @@
+1) To compute traditional metrics (SacreBLEU, TER, and CHRF2):
+ 
+- pip install torchmetrics 
+
+2) To compute BLEURT-20:
+
+- pip install torch
+- pip install git+https://github.com/lucadiliello/bleurt-pytorch.git
+
+3) To compute COMET-MQM_2021 or COMET-QE-MQM_2021:
+
+- pip install --upgrade pip  # ensures that pip is current 
+- pip install unbabel-comet
+
+If loading the COMET model directly from Hugging Face does not work, you may need to download it locally: 
+- Use the link: https://unbabel.github.io/COMET/html/models.html#available-evaluation-models
+- Download wmt21-comet-mqm (for COMET-MQM_2021) and wmt21-comet-qe-mqm (for COMET-QE-MQM_2021)
+- pip install PyYAML
+
+4) Additional required packages:
+
+- pip install pandas # read data files 
+- pip install scipy # evaluate the metrics 
+- pip install transformers # generate MTs by opus-mt-en-ru 
